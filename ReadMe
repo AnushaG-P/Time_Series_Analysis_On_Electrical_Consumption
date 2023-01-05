@@ -1,4 +1,4 @@
-ReadMe
+#ReadMe
 
 The project deals with electricity consumption in New York City between the years 2010 to 2022. The forecasting model is able to predict New York City’s Electricity Consumption by using Facebook’s Prophet model. Prophet is a procedure/model for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, on Daily, Monthly, and Yearly Mean electric consumption:
 
